@@ -11,4 +11,5 @@ Learn something new and try to work in a startup at the same time? https://www.g
 
 ### ⛳️ Open source projects
 - `Node.js` + `Nginx` Docker image for amazingly fast frontend apps (https://github.com/goforboom/mango)
+- Lightweight Kotlin/Java SDK for Fakturoid.cz (https://github.com/goforboom/fakturoid)
 - Release image to `AWS ECR` from GitHub actions with less config (https://github.com/goforboom/aws-container-registry-action)
