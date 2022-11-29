@@ -10,6 +10,6 @@ Learn something new and try to work in a startup at the same time? https://www.g
 - **Backend** (AWS services, Spring Boot, Express.js for micro-services, Kotlin, Redis)
 
 ### ⛳️ Open source projects
-- `Node.js` + `Nginx` Docker image for amazingly fast frontend apps (https://github.com/goforboom/mango)
-- Lightweight Kotlin/Java SDK for Fakturoid.cz (https://github.com/goforboom/fakturoid)
+- Lightweight Kotlin SDK for HubSpot CRM (https://github.com/goforboom/hubspot)
+- Lightweight Kotlin SDK for Fakturoid.cz (https://github.com/goforboom/fakturoid)
 - Release image to `AWS ECR` from GitHub actions with less config (https://github.com/goforboom/aws-container-registry-action)
