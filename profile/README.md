@@ -12,4 +12,3 @@ Learn something new and try to work in a startup at the same time? https://www.g
 ### ⛳️ Open source projects
 - Lightweight Kotlin SDK for HubSpot CRM (https://github.com/goforboom/hubspot)
 - Lightweight Kotlin SDK for Fakturoid.cz (https://github.com/goforboom/fakturoid)
-- Release image to `AWS ECR` from GitHub actions with less config (https://github.com/goforboom/aws-container-registry-action)
