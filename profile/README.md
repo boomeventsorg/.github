@@ -11,4 +11,3 @@ Learn something new and try to work in a startup at the same time? https://www.b
 
 ### ⛳️ Open source projects
 - Lightweight Kotlin SDK for HubSpot CRM (https://github.com/boomeventsorg/hubspot)
-- Lightweight Kotlin SDK for Fakturoid.cz (https://github.com/boomeventsorg/fakturoid)
